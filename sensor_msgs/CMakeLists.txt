@@ -15,6 +15,8 @@ add_message_files(
   CameraInfo.msg
   ChannelFloat32.msg
   CompressedImage.msg
+  DVL.msg
+  DVLBeam.msg
   FluidPressure.msg
   Illuminance.msg
   Image.msg
